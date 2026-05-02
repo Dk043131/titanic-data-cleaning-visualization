@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,FamilySize,IsAlone,AgeGroup
+1,1,2,female,59.2,0,0,28.34,S,1,1,Adult
+2,1,3,female,20.5,0,3,6.22,S,4,0,Young Adult
+3,0,3,male,39.4,0,0,10.0,C,1,1,Adult
+4,1,3,female,33.2,0,0,37.31,S,1,1,Young Adult
+5,1,1,male,47.2,2,0,68.45,S,3,0,Adult
+6,0,1,male,28.7,1,0,71.97,C,2,0,Young Adult
+7,1,1,female,29.4,4,0,100.83250000000001,S,5,0,Young Adult
+8,1,3,male,18.5,0,1,13.43,Q,2,0,Young Adult
+9,0,3,male,35.4,3,0,20.62,S,4,0,Adult
+10,1,3,male,19.5,0,0,8.47,S,1,1,Young Adult
+11,1,1,male,57.2,0,0,87.04,C,1,1,Adult
+12,0,3,male,30.9,0,3,23.52,S,4,0,Young Adult
+13,0,3,male,23.9,0,0,11.33,C,1,1,Young Adult
+14,1,1,male,31.6,1,0,57.5,C,2,0,Young Adult
+15,1,1,female,10.1,0,0,92.4,C,1,1,Child
+16,0,1,female,15.4,0,0,86.41,Q,1,1,Teen
+17,0,2,male,45.8,0,0,38.41,S,1,1,Adult
+18,1,3,male,28.7,0,0,100.83250000000001,S,1,1,Young Adult
+19,1,2,male,14.3,0,1,31.17,S,2,0,Teen
+20,0,2,male,36.5,0,0,12.31,S,1,1,Adult
+21,0,3,male,45.6,1,1,4.73,C,3,0,Adult
+22,1,1,male,39.1,1,0,49.66,S,2,0,Adult
+23,0,2,male,42.9,0,0,21.03,S,1,1,Adult
+24,1,2,male,18.4,0,0,11.62,S,1,1,Young Adult
+25,0,3,male,9.1,0,0,10.09,S,1,1,Child
+26,0,3,male,50.0,1,0,5.83,Q,2,0,Adult
+27,1,1,female,28.7,0,0,96.09,S,1,1,Young Adult
+28,0,3,female,25.5,0,0,6.48,S,1,1,Young Adult
+29,0,3,male,47.6,0,0,6.14,C,1,1,Adult
+30,1,1,female,28.7,0,4,83.46,S,5,0,Young Adult
+31,0,3,male,35.4,0,0,19.83,S,1,1,Adult
+32,1,1,female,59.3,1,2,55.61,S,4,0,Adult
+33,1,1,female,20.0,0,0,85.94,S,1,1,Young Adult
+34,0,3,male,28.7,0,0,26.84,S,1,1,Young Adult
+35,1,3,male,29.8,1,0,6.65,C,2,0,Young Adult
+36,1,3,male,32.8,1,0,35.87,S,2,0,Young Adult
+37,0,2,male,50.4,0,0,52.61,Q,1,1,Adult
+38,1,1,male,36.1,0,0,100.83250000000001,C,1,1,Adult
+39,1,3,male,36.5,0,2,16.12,S,3,0,Adult
+40,1,2,male,28.7,2,1,18.87,S,4,0,Young Adult
+41,1,1,female,23.9,0,0,100.83250000000001,S,1,1,Young Adult
+42,0,3,female,17.3,2,0,7.08,S,3,0,Teen
+43,1,1,male,14.4,1,0,26.73,Q,2,0,Teen
+44,0,3,male,1.5,0,0,24.8,S,1,1,Child
+45,0,2,male,57.8,0,0,31.87,S,1,1,Adult
+46,0,3,male,13.6,0,2,9.66,S,3,0,Teen
+47,1,2,female,25.9,0,0,26.31,S,1,1,Young Adult
+48,0,3,male,25.1,0,0,15.38,S,1,1,Young Adult
+49,1,3,male,33.3,0,0,18.08,S,1,1,Young Adult
+50,1,1,male,40.4,3,0,96.97,S,4,0,Adult
+51,0,3,male,41.0,0,0,11.78,S,1,1,Adult
+52,0,3,female,20.8,1,0,13.42,S,2,0,Young Adult
+53,0,3,female,26.7,0,0,19.73,C,1,1,Young Adult
+54,1,3,male,33.0,0,0,8.48,S,1,1,Young Adult
+55,0,3,male,28.7,0,0,7.86,S,1,1,Young Adult
+56,1,3,male,51.5,0,4,9.7,S,5,0,Adult
+57,1,1,female,35.9,2,0,32.29,S,3,0,Adult
+58,1,1,female,39.3,0,0,100.83250000000001,Q,1,1,Adult
+59,1,1,male,38.3,0,0,100.83250000000001,S,1,1,Adult
+60,0,2,male,45.4,0,0,21.75,S,1,1,Adult
+61,0,2,female,31.5,0,0,35.33,C,1,1,Young Adult
+62,0,2,male,10.8,0,1,18.77,C,2,0,Child
+63,1,3,female,34.6,1,0,6.96,S,2,0,Young Adult
+64,0,2,male,19.9,1,0,21.71,S,2,0,Young Adult
+65,0,2,male,21.6,0,0,18.21,S,1,1,Young Adult
+66,0,3,male,28.7,0,0,7.95,S,1,1,Young Adult
+67,0,1,male,46.3,0,1,55.54,C,2,0,Adult
+68,0,3,male,29.3,0,1,16.94,S,2,0,Young Adult
+69,1,1,female,33.3,0,0,100.83250000000001,C,1,1,Young Adult
+70,1,3,male,28.7,0,1,14.67,S,2,0,Young Adult
+71,0,3,male,32.4,0,0,15.61,S,1,1,Young Adult
+72,0,1,male,28.7,0,3,100.83250000000001,S,4,0,Young Adult
+73,1,1,male,36.9,0,0,100.83250000000001,C,1,1,Adult
+74,0,3,male,4.3,0,3,15.68,S,4,0,Child
+75,0,3,male,39.5,0,0,24.61,S,1,1,Adult
+76,1,3,female,34.3,0,0,6.6,S,1,1,Young Adult
+77,0,3,male,47.1,1,0,8.0,S,2,0,Adult
+78,0,1,male,38.4,0,4,100.83250000000001,S,5,0,Adult
+79,0,2,male,27.1,0,1,38.65,Q,2,0,Young Adult
+80,1,1,female,11.9,0,0,94.38,S,1,1,Child
+81,1,3,female,28.7,1,0,21.04,C,2,0,Young Adult
+82,0,3,female,17.1,0,0,4.0,S,1,1,Teen
+83,1,2,male,20.9,0,0,40.85,S,1,1,Young Adult
+84,1,1,male,37.2,0,0,65.35,S,1,1,Adult
+85,1,2,male,28.7,1,0,17.61,S,2,0,Young Adult
+86,1,2,male,34.5,2,1,12.91,C,4,0,Young Adult
+87,0,3,male,12.3,0,0,7.04,S,1,1,Teen
+88,0,3,male,35.2,1,1,14.47,S,3,0,Adult
+89,1,3,male,28.7,2,0,7.43,S,3,0,Young Adult
+90,1,3,male,20.5,2,0,13.91,Q,3,0,Young Adult
+91,1,1,female,28.7,0,0,100.83250000000001,S,1,1,Young Adult
+92,0,3,male,29.2,0,0,13.14,S,1,1,Young Adult
+93,1,3,male,18.0,0,0,8.84,S,1,1,Teen
+94,1,3,female,38.1,1,0,33.7,S,2,0,Adult
+95,0,3,male,27.3,0,0,14.57,S,1,1,Young Adult
+96,0,3,female,34.9,0,0,10.6,C,1,1,Young Adult
+97,0,3,male,16.6,0,0,13.9,S,1,1,Teen
+98,0,2,male,22.9,1,0,33.84,S,2,0,Young Adult
+99,0,1,female,39.1,1,1,29.5,S,3,0,Adult
+100,1,1,female,23.8,0,2,100.83250000000001,S,3,0,Young Adult
+101,1,1,female,53.2,1,0,87.63,S,2,0,Adult
+102,0,3,male,28.7,0,0,11.72,Q,1,1,Young Adult
+103,1,2,male,32.1,1,0,23.46,C,2,0,Young Adult
+104,0,3,male,28.7,0,2,7.24,C,3,0,Young Adult
+105,0,3,male,9.1,0,0,15.04,C,1,1,Child
+106,1,2,female,4.3,2,0,20.05,S,3,0,Child
+107,0,2,male,7.6,0,0,23.04,S,1,1,Child
+108,0,3,female,46.7,1,0,18.27,S,2,0,Adult
+109,1,1,male,21.3,0,0,75.45,S,1,1,Young Adult
+110,1,1,male,64.8,0,1,100.83250000000001,S,2,0,Senior
+111,0,2,male,21.1,0,0,19.89,S,1,1,Young Adult
+112,0,1,female,31.6,0,0,87.4,S,1,1,Young Adult
+113,0,3,female,28.7,0,0,7.31,C,1,1,Young Adult
+114,0,3,female,57.1,0,0,10.39,C,1,1,Adult
+115,1,3,female,57.9,0,2,5.88,Q,3,0,Adult
+116,1,3,female,45.9,0,0,17.03,S,1,1,Adult
+117,1,3,female,43.3,3,1,16.99,S,5,0,Adult
+118,1,1,male,37.3,3,0,63.82,S,4,0,Adult
+119,0,3,male,28.7,0,0,10.87,S,1,1,Young Adult
+120,0,3,male,21.3,1,2,15.27,S,4,0,Young Adult
+121,0,3,female,17.5,0,0,19.96,S,1,1,Teen
+122,1,3,female,29.0,0,1,8.36,S,2,0,Young Adult
+123,1,2,male,26.6,1,0,21.28,S,2,0,Young Adult
+124,1,1,female,22.7,2,1,100.83250000000001,S,4,0,Young Adult
+125,1,1,female,28.7,0,0,42.24,S,1,1,Young Adult
+126,0,2,male,42.4,1,0,15.64,S,2,0,Adult
+127,0,3,male,30.2,0,1,8.67,S,2,0,Young Adult
+128,0,3,female,28.7,5,2,18.92,S,8,0,Young Adult
+129,0,1,male,13.0,0,2,100.83250000000001,S,3,0,Teen
+130,1,3,female,26.3,0,1,14.2,S,2,0,Young Adult
+131,1,2,male,19.0,0,1,19.07,C,2,0,Young Adult
+132,1,1,female,2.9,1,0,100.83250000000001,C,2,0,Child
+133,1,1,female,28.7,0,0,100.83250000000001,S,1,1,Young Adult
+134,0,2,female,27.3,2,0,17.73,S,3,0,Young Adult
+135,0,3,male,28.7,0,0,17.98,S,1,1,Young Adult
+136,1,2,female,37.8,0,0,13.07,S,1,1,Adult
+137,1,3,female,28.7,0,0,8.62,S,1,1,Young Adult
+138,0,3,male,55.0,0,0,18.74,S,1,1,Adult
+139,0,2,female,46.1,0,0,24.57,S,1,1,Adult
+140,1,3,male,37.1,0,0,34.36,S,1,1,Adult
+141,0,3,male,25.8,0,0,8.22,S,1,1,Young Adult
+142,0,2,male,15.6,0,0,18.37,S,1,1,Teen
+143,0,3,male,23.8,0,1,7.07,C,2,0,Young Adult
+144,1,2,male,44.2,1,0,20.84,S,2,0,Adult
+145,1,2,female,55.4,1,0,14.39,S,2,0,Adult
+146,0,1,male,50.6,0,0,100.83250000000001,Q,1,1,Adult
+147,1,3,female,22.2,0,0,36.67,Q,1,1,Young Adult
+148,0,3,male,13.3,0,0,12.15,S,1,1,Teen
+149,0,1,male,31.0,0,0,84.03,S,1,1,Young Adult
+150,0,2,male,4.2,0,0,18.03,S,1,1,Child
+151,1,3,female,33.5,0,0,15.31,S,1,1,Young Adult
+152,0,1,male,28.7,0,0,83.39,C,1,1,Young Adult
+153,1,1,male,28.7,0,2,78.05,Q,3,0,Young Adult
+154,0,3,female,6.7,0,2,22.15,S,3,0,Child
+155,0,3,male,36.2,1,0,10.26,S,2,0,Adult
+156,1,2,male,28.7,3,0,20.94,S,4,0,Young Adult
+157,0,3,male,12.6,0,0,5.62,S,1,1,Teen
+158,0,3,female,0.5,0,0,9.31,C,1,1,Child
+159,1,1,male,28.6,1,2,38.26,C,4,0,Young Adult
+160,1,3,female,53.8,2,0,6.42,S,3,0,Adult
+161,1,2,male,28.7,0,1,13.7,S,2,0,Young Adult
+162,0,3,female,22.6,0,0,13.31,S,1,1,Young Adult
+163,0,3,female,20.6,0,3,10.83,S,4,0,Young Adult
+164,0,3,female,35.6,0,0,10.59,C,1,1,Adult
+165,0,1,male,15.0,0,1,34.3,S,2,0,Teen
+166,0,3,female,33.2,0,0,9.96,S,1,1,Young Adult
+167,1,2,male,39.7,0,0,8.66,S,1,1,Adult
+168,1,1,male,46.2,0,0,59.63,C,1,1,Adult
+169,0,1,male,27.6,1,0,54.27,S,2,0,Young Adult
+170,0,3,female,26.1,0,2,14.15,C,3,0,Young Adult
+171,0,3,female,16.7,0,2,9.13,C,3,0,Teen
+172,1,1,female,28.7,0,1,90.34,Q,2,0,Young Adult
+173,0,3,male,28.7,0,0,16.64,S,1,1,Young Adult
+174,1,1,male,34.1,3,1,71.05,S,5,0,Young Adult
+175,0,3,female,41.8,0,0,7.26,S,1,1,Adult
+176,1,1,male,17.8,0,0,66.42,S,1,1,Teen
+177,0,3,male,49.9,1,0,5.52,S,2,0,Adult
+178,0,2,male,25.2,0,0,38.71,S,1,1,Young Adult
+179,0,3,male,28.7,1,0,18.38,S,2,0,Young Adult
+180,1,1,male,18.5,0,0,68.77,C,1,1,Young Adult
+181,0,2,male,0.5,0,0,41.9,S,1,1,Child
+182,0,1,male,28.7,0,1,77.29,S,2,0,Young Adult
+183,0,3,male,39.3,0,0,4.56,C,1,1,Adult
+184,0,3,female,25.1,1,0,5.12,C,2,0,Young Adult
+185,1,2,male,29.9,1,0,23.06,C,2,0,Young Adult
+186,0,3,male,36.2,0,0,26.76,C,1,1,Adult
+187,0,3,female,7.1,0,0,9.13,Q,1,1,Child
+188,0,3,male,21.6,1,0,19.18,S,2,0,Young Adult
+189,0,3,female,28.7,2,0,15.69,S,3,0,Young Adult
+190,1,2,female,11.4,0,0,46.29,S,1,1,Child
+191,1,1,male,33.1,0,0,97.71,S,1,1,Young Adult
+192,0,3,male,28.7,0,1,4.93,S,2,0,Young Adult
+193,1,3,female,28.7,1,0,22.01,S,2,0,Young Adult
+194,0,3,female,28.5,0,0,4.53,S,1,1,Young Adult
+195,0,2,male,28.7,0,1,25.39,S,2,0,Young Adult
+196,1,2,male,45.3,1,0,19.4,S,2,0,Adult
+197,0,3,male,18.7,0,0,9.68,C,1,1,Young Adult
+198,0,3,female,17.7,0,1,14.26,S,2,0,Teen
+199,0,3,male,31.8,0,0,8.68,C,1,1,Young Adult
+200,0,3,female,45.1,0,0,14.85,S,1,1,Adult
+201,0,3,male,14.8,0,0,13.07,Q,1,1,Teen
+202,0,1,male,28.7,0,0,98.07,C,1,1,Young Adult
+203,1,1,male,35.0,0,0,90.56,S,1,1,Young Adult
+204,1,3,male,38.7,0,0,12.36,S,1,1,Adult
+205,0,3,male,31.5,1,0,15.11,S,2,0,Young Adult
+206,0,1,male,23.9,1,0,100.83250000000001,Q,2,0,Young Adult
+207,1,1,male,17.4,0,0,74.51,C,1,1,Teen
+208,0,3,female,28.7,0,0,22.84,C,1,1,Young Adult
+209,1,1,male,28.7,0,0,100.83250000000001,S,1,1,Young Adult
+210,1,1,male,0.5,0,0,100.83250000000001,S,1,1,Child
+211,1,3,female,35.1,0,0,15.17,C,1,1,Adult
+212,1,3,female,28.7,0,2,28.53,S,3,0,Young Adult
+213,1,3,female,0.5,0,0,11.96,S,1,1,Child
+214,1,1,female,14.9,0,0,57.98,S,1,1,Teen
+215,0,3,male,37.7,0,0,26.68,Q,1,1,Adult
+216,1,1,male,57.8,1,0,53.23,S,2,0,Adult
+217,1,2,female,28.7,0,2,19.1,S,3,0,Young Adult
+218,1,3,female,18.8,0,0,19.82,S,1,1,Young Adult
+219,0,3,male,26.4,0,2,7.67,C,3,0,Young Adult
+220,1,3,female,48.2,1,0,8.72,S,2,0,Adult
+221,0,3,male,20.0,1,0,9.37,S,2,0,Young Adult
+222,0,3,male,28.7,0,0,4.87,S,1,1,Young Adult
+223,0,1,male,22.2,0,1,100.83250000000001,C,2,0,Young Adult
+224,0,2,male,15.7,0,0,31.42,Q,1,1,Teen
+225,0,2,male,30.7,0,0,32.92,C,1,1,Young Adult
+226,0,2,male,51.7,0,0,25.15,S,1,1,Adult
+227,1,3,female,33.5,1,0,19.33,C,2,0,Young Adult
+228,1,2,male,25.5,0,2,27.54,S,3,0,Young Adult
+229,0,3,male,24.9,1,0,8.56,S,2,0,Young Adult
+230,0,3,female,7.1,0,0,14.58,S,1,1,Child
+231,1,3,female,41.4,0,0,12.7,S,1,1,Adult
+232,0,3,female,27.9,1,0,25.56,C,2,0,Young Adult
+233,1,3,female,26.5,0,2,7.27,S,3,0,Young Adult
+234,1,3,female,28.7,0,0,11.29,S,1,1,Young Adult
+235,1,1,male,33.2,0,0,100.83250000000001,S,1,1,Young Adult
+236,0,3,male,18.5,0,1,12.46,S,2,0,Young Adult
+237,1,2,male,23.0,5,0,22.18,S,6,0,Young Adult
+238,1,1,male,45.1,0,0,74.87,S,1,1,Adult
+239,0,3,male,30.6,4,0,10.15,S,5,0,Young Adult
+240,1,1,female,8.9,3,0,100.83250000000001,S,4,0,Child
+241,0,3,male,41.9,1,0,24.01,S,2,0,Adult
+242,1,3,male,19.6,0,2,15.59,C,3,0,Young Adult
+243,0,3,male,55.2,0,0,11.37,S,1,1,Adult
+244,1,2,female,44.1,1,0,40.03,C,2,0,Adult
+245,1,1,male,22.7,0,2,100.83250000000001,Q,3,0,Young Adult
+246,1,3,female,46.9,0,0,13.65,C,1,1,Adult
+247,0,2,male,29.9,0,0,18.78,S,1,1,Young Adult
+248,0,3,male,40.9,0,0,16.22,S,1,1,Adult
+249,0,3,male,35.8,0,2,7.92,Q,3,0,Adult
+250,1,3,female,17.2,0,0,6.0,S,1,1,Teen
+251,0,2,male,20.0,0,1,24.72,S,2,0,Young Adult
+252,1,2,female,28.7,1,1,14.07,S,3,0,Young Adult
+253,0,3,male,24.3,0,0,58.64,S,1,1,Young Adult
+254,0,2,male,23.3,2,0,30.47,Q,3,0,Young Adult
+255,1,1,female,15.6,1,1,100.83250000000001,S,3,0,Teen
+256,0,3,female,28.7,1,0,9.53,S,2,0,Young Adult
+257,1,3,female,57.9,0,1,11.3,S,2,0,Adult
+258,0,3,female,14.1,1,2,8.9,S,4,0,Teen
+259,0,3,female,28.7,0,0,30.41,S,1,1,Young Adult
+260,1,1,female,48.8,1,0,100.83250000000001,S,2,0,Adult
+261,1,3,female,27.9,0,1,9.49,S,2,0,Young Adult
+262,1,3,female,28.7,1,1,11.8,S,3,0,Young Adult
+263,1,1,female,14.1,5,0,100.83250000000001,C,6,0,Teen
+264,0,3,male,35.0,0,0,19.65,S,1,1,Young Adult
+265,1,3,female,26.4,0,0,6.06,S,1,1,Young Adult
+266,0,3,male,42.8,1,0,7.48,S,2,0,Adult
+267,1,3,female,28.7,0,0,8.24,S,1,1,Young Adult
+268,0,3,female,28.7,1,0,9.78,C,2,0,Young Adult
+269,0,2,male,28.7,0,0,14.38,C,1,1,Young Adult
+270,0,2,female,28.7,0,0,57.64,S,1,1,Young Adult
+271,1,3,male,31.7,3,0,17.6,S,4,0,Young Adult
+272,0,3,male,24.1,0,0,19.13,C,1,1,Young Adult
+273,0,3,female,33.7,1,0,10.35,S,2,0,Young Adult
+274,0,3,male,24.9,0,0,5.38,S,1,1,Young Adult
+275,0,3,female,28.7,0,0,7.24,Q,1,1,Young Adult
+276,0,3,female,47.4,0,0,9.39,S,1,1,Adult
+277,0,3,male,14.9,0,0,6.54,Q,1,1,Teen
+278,0,3,male,45.0,1,0,21.55,S,2,0,Adult
+279,1,3,male,47.4,0,2,6.75,S,3,0,Adult
+280,0,3,male,27.3,0,0,16.59,S,1,1,Young Adult
+281,1,3,female,0.5,0,2,5.25,S,3,0,Child
+282,0,2,male,20.5,1,0,24.18,S,2,0,Young Adult
+283,0,2,male,47.2,0,0,33.39,S,1,1,Adult
+284,0,1,male,28.7,1,2,100.83250000000001,S,4,0,Young Adult
+285,0,3,male,15.0,0,0,6.92,S,1,1,Teen
+286,1,1,female,21.9,0,0,100.83250000000001,S,1,1,Young Adult
+287,0,3,male,40.8,1,0,10.12,S,2,0,Adult
+288,1,3,female,36.7,0,0,11.29,S,1,1,Adult
+289,1,2,male,25.7,0,0,28.77,S,1,1,Young Adult
+290,1,3,female,23.9,0,0,10.35,S,1,1,Young Adult
+291,1,1,male,23.5,0,0,100.83250000000001,S,1,1,Young Adult
+292,1,1,male,16.1,1,0,60.06,S,2,0,Teen
+293,0,3,female,28.7,0,3,20.02,S,4,0,Young Adult
+294,0,2,male,24.5,1,0,28.08,C,2,0,Young Adult
+295,0,1,female,46.0,0,0,34.36,S,1,1,Adult
+296,1,3,female,50.3,0,1,6.9,S,2,0,Adult
+297,0,3,male,28.7,2,0,7.26,C,3,0,Young Adult
+298,0,1,male,23.0,0,0,75.46,S,1,1,Young Adult
+299,0,3,female,34.7,0,0,14.77,S,1,1,Young Adult
+300,0,1,male,28.7,0,0,100.83250000000001,C,1,1,Young Adult
+301,0,1,male,16.3,0,0,66.34,S,1,1,Teen
+302,1,3,male,33.5,0,1,4.34,C,2,0,Young Adult
+303,0,3,male,12.5,0,3,17.76,S,4,0,Teen
+304,1,3,male,45.6,0,0,13.72,S,1,1,Adult
+305,1,3,female,28.7,0,0,7.4,Q,1,1,Young Adult
+306,0,3,female,31.8,0,0,5.95,S,1,1,Young Adult
+307,1,3,female,28.7,0,0,12.94,S,1,1,Young Adult
+308,1,2,female,25.4,0,2,55.39,S,3,0,Young Adult
+309,0,3,male,37.2,0,0,10.87,S,1,1,Adult
+310,0,2,female,28.7,3,0,39.92,S,4,0,Young Adult
+311,1,2,male,28.7,0,1,21.06,S,2,0,Young Adult
+312,0,1,male,28.7,1,0,85.17,S,2,0,Young Adult
+313,1,1,male,30.8,0,0,100.83250000000001,S,1,1,Young Adult
+314,0,3,male,56.1,0,0,15.95,S,1,1,Adult
+315,1,3,female,15.0,0,1,22.45,S,2,0,Teen
+316,1,3,female,28.7,0,0,15.43,S,1,1,Young Adult
+317,1,2,male,28.7,0,1,26.84,Q,2,0,Young Adult
+318,1,1,male,28.7,0,0,68.17,S,1,1,Young Adult
+319,0,1,female,28.7,0,1,100.83250000000001,S,2,0,Young Adult
+320,0,2,male,35.8,2,1,17.22,C,4,0,Adult
+321,0,3,male,37.9,0,0,16.94,C,1,1,Adult
+322,0,3,male,44.5,0,0,18.16,S,1,1,Adult
+323,1,3,female,28.7,1,0,13.3,C,2,0,Young Adult
+324,0,2,female,25.6,0,0,32.29,S,1,1,Young Adult
+325,0,3,male,38.4,0,0,29.76,C,1,1,Adult
+326,0,3,male,55.6,1,0,9.89,S,2,0,Adult
+327,1,3,female,27.1,1,0,16.47,S,2,0,Young Adult
+328,0,3,female,28.7,1,0,12.49,S,2,0,Young Adult
+329,0,2,male,44.5,0,0,22.93,C,1,1,Adult
+330,0,2,female,27.3,0,0,33.36,S,1,1,Young Adult
+331,1,2,male,0.5,2,0,25.3,S,3,0,Child
+332,1,3,male,40.9,0,1,23.4,S,2,0,Adult
+333,1,1,female,21.5,0,0,100.83250000000001,C,1,1,Young Adult
+334,0,1,male,27.7,0,0,85.38,C,1,1,Young Adult
+335,1,1,male,33.6,0,2,100.83250000000001,S,3,0,Young Adult
+336,1,1,male,31.7,0,0,100.83250000000001,S,1,1,Young Adult
+337,0,3,male,38.9,0,2,43.39,S,3,0,Adult
+338,0,3,female,22.9,0,0,12.61,S,1,1,Young Adult
+339,0,3,male,36.2,0,0,28.51,Q,1,1,Adult
+340,1,1,female,28.7,1,0,46.97,S,2,0,Young Adult
+341,0,3,male,39.3,0,0,6.01,S,1,1,Adult
+342,0,3,male,37.6,0,0,19.06,S,1,1,Adult
+343,1,1,male,15.9,0,0,100.83250000000001,S,1,1,Teen
+344,1,2,female,44.2,0,0,15.28,S,1,1,Adult
+345,0,2,male,21.5,0,0,23.71,S,1,1,Young Adult
+346,1,3,female,28.7,0,0,15.65,S,1,1,Young Adult
+347,0,3,male,34.1,1,0,12.25,S,2,0,Young Adult
+348,1,1,female,28.7,2,0,14.02,S,3,0,Young Adult
+349,1,2,male,25.9,0,0,24.05,S,1,1,Young Adult
+350,0,3,female,28.7,0,2,16.26,S,3,0,Young Adult
+351,0,3,female,28.7,0,0,8.75,C,1,1,Young Adult
+352,0,3,female,24.8,1,2,14.67,S,4,0,Young Adult
+353,1,3,female,40.2,1,1,20.89,S,3,0,Adult
+354,0,1,female,6.4,0,0,81.53,C,1,1,Child
+355,1,1,male,14.2,0,0,54.82,S,1,1,Teen
+356,0,3,male,14.1,1,0,15.52,S,2,0,Teen
+357,0,1,male,42.3,0,0,72.09,S,1,1,Adult
+358,1,3,female,28.7,0,0,18.9,S,1,1,Young Adult
+359,0,3,male,27.5,0,0,7.34,S,1,1,Young Adult
+360,0,3,female,28.7,0,0,9.35,S,1,1,Young Adult
+361,1,2,male,30.0,1,0,21.79,C,2,0,Young Adult
+362,0,3,male,45.3,2,0,7.75,C,3,0,Adult
+363,0,3,male,16.0,0,0,4.96,S,1,1,Teen
+364,1,3,female,32.3,0,1,2.39,S,2,0,Young Adult
+365,1,3,male,42.7,0,0,22.15,S,1,1,Adult
+366,0,2,male,28.7,0,0,30.48,S,1,1,Young Adult
+367,0,3,male,31.7,0,0,26.66,S,1,1,Young Adult
+368,0,3,male,43.0,0,0,17.63,C,1,1,Adult
+369,1,1,male,0.5,0,0,100.83250000000001,S,1,1,Child
+370,1,1,male,38.5,0,0,79.84,Q,1,1,Adult
+371,1,1,female,19.8,0,0,48.55,S,1,1,Young Adult
+372,0,1,male,3.4,0,0,100.83250000000001,C,1,1,Child
+373,0,1,male,36.2,0,2,54.35,S,3,0,Adult
+374,0,3,male,48.2,0,2,7.46,S,3,0,Adult
+375,1,1,male,27.1,4,0,100.83250000000001,S,5,0,Young Adult
+376,0,2,male,28.7,0,0,36.78,S,1,1,Young Adult
+377,0,3,male,51.6,0,0,11.61,S,1,1,Adult
+378,1,1,male,47.4,1,0,91.26,S,2,0,Adult
+379,0,3,male,52.0,5,0,12.95,S,6,0,Adult
+380,1,2,female,28.7,0,0,12.84,S,1,1,Young Adult
+381,1,1,female,30.1,1,2,100.83250000000001,C,4,0,Young Adult
+382,0,3,female,6.6,0,0,22.4,S,1,1,Child
+383,0,3,male,25.6,0,0,15.49,S,1,1,Young Adult
+384,0,3,male,17.2,0,0,24.76,S,1,1,Teen
+385,0,3,male,28.7,0,0,10.29,Q,1,1,Young Adult
+386,0,3,male,26.5,1,0,17.25,S,2,0,Young Adult
+387,1,2,female,30.7,0,3,18.5,S,4,0,Young Adult
+388,0,1,male,36.7,0,0,73.44,S,1,1,Adult
+389,0,3,male,29.6,0,0,7.06,C,1,1,Young Adult
+390,0,3,male,28.7,0,0,16.3,C,1,1,Young Adult
+391,1,3,female,20.3,0,0,15.77,S,1,1,Young Adult
+392,0,2,male,28.7,1,0,20.51,S,2,0,Young Adult
+393,0,2,male,18.6,1,0,18.34,S,2,0,Young Adult
+394,0,3,male,10.5,1,0,15.67,S,2,0,Child
+395,1,2,male,20.4,1,1,26.19,S,3,0,Young Adult
+396,1,3,male,28.5,0,0,17.54,C,1,1,Young Adult
+397,1,3,male,23.0,1,0,16.38,Q,2,0,Young Adult
+398,0,2,male,19.3,0,0,9.44,S,1,1,Young Adult
+399,0,3,male,9.3,0,1,9.44,S,2,0,Child
+400,0,3,male,27.8,0,0,20.52,S,1,1,Young Adult
+401,0,1,male,7.9,0,0,71.42,S,1,1,Child
+402,0,3,male,28.7,0,0,6.11,C,1,1,Young Adult
+403,0,3,female,30.2,0,0,13.61,S,1,1,Young Adult
+404,1,3,female,8.6,1,0,6.85,S,2,0,Child
+405,0,2,male,24.7,0,1,15.9,S,2,0,Young Adult
+406,0,3,male,18.5,0,0,8.79,S,1,1,Young Adult
+407,0,2,male,33.5,3,0,23.11,C,4,0,Young Adult
+408,1,1,male,28.7,0,0,84.82,S,1,1,Young Adult
+409,0,3,female,2.7,0,1,9.93,C,2,0,Child
+410,0,1,male,30.6,0,0,53.72,S,1,1,Young Adult
+411,1,2,female,26.8,0,0,19.48,C,1,1,Young Adult
+412,0,3,male,28.7,0,0,20.57,S,1,1,Young Adult
+413,0,3,male,32.0,0,0,2.93,C,1,1,Young Adult
+414,1,3,female,18.5,0,0,10.44,S,1,1,Young Adult
+415,1,3,female,24.5,0,0,26.38,S,1,1,Young Adult
+416,1,2,female,28.7,0,0,43.36,S,1,1,Young Adult
+417,1,2,female,44.1,0,0,19.8,S,1,1,Adult
+418,0,2,male,29.3,0,0,18.12,S,1,1,Young Adult
+419,1,3,female,55.6,1,0,6.55,S,2,0,Adult
+420,0,3,male,28.2,0,0,15.75,Q,1,1,Young Adult
+421,1,3,female,19.1,0,1,26.45,S,2,0,Young Adult
+422,0,3,male,7.8,1,2,6.89,C,4,0,Child
+423,1,1,female,28.7,0,3,100.83250000000001,Q,4,0,Young Adult
+424,0,3,male,6.8,0,1,14.89,S,2,0,Child
+425,0,1,male,32.7,0,0,100.83250000000001,S,1,1,Young Adult
+426,0,3,male,36.1,1,0,15.81,S,2,0,Adult
+427,1,2,female,28.7,1,0,31.55,S,2,0,Young Adult
+428,0,3,male,28.7,0,0,15.58,S,1,1,Young Adult
+429,1,2,male,22.2,1,0,22.99,Q,2,0,Young Adult
+430,0,1,male,31.1,0,0,100.83250000000001,S,1,1,Young Adult
+431,0,1,male,51.6,0,0,79.89,S,1,1,Adult
+432,1,3,female,41.6,0,0,15.24,S,1,1,Adult
+433,0,3,male,25.2,0,0,12.13,C,1,1,Young Adult
+434,1,1,female,16.5,1,2,100.83250000000001,S,4,0,Teen
+435,1,1,male,0.5,0,0,100.83250000000001,S,1,1,Child
+436,0,3,male,18.9,0,0,13.49,S,1,1,Young Adult
+437,1,1,female,26.0,2,2,98.22,S,5,0,Young Adult
+438,1,3,female,28.7,0,0,19.28,Q,1,1,Young Adult
+439,1,3,male,27.2,0,0,17.18,C,1,1,Young Adult
+440,1,1,male,30.1,0,0,55.35,S,1,1,Young Adult
+441,1,1,female,25.9,1,0,68.12,S,2,0,Young Adult
+442,0,3,male,19.9,1,1,21.4,S,3,0,Young Adult
+443,1,2,female,31.4,0,0,25.83,S,1,1,Young Adult
+444,1,2,female,35.2,0,0,21.36,S,1,1,Adult
+445,0,3,female,13.7,0,0,16.45,S,1,1,Teen
+446,0,3,male,48.8,1,0,13.04,S,2,0,Adult
+447,0,3,female,27.6,0,2,17.33,Q,3,0,Young Adult
+448,0,3,male,29.3,0,0,3.99,S,1,1,Young Adult
+449,0,2,male,28.7,2,0,22.49,Q,3,0,Young Adult
+450,0,1,male,28.7,0,0,81.96,S,1,1,Young Adult
+451,0,3,male,42.3,0,0,5.41,S,1,1,Adult
+452,1,3,female,33.0,0,2,7.71,C,3,0,Young Adult
+453,1,2,female,20.4,3,0,19.09,S,4,0,Young Adult
+454,1,3,female,34.1,0,0,7.06,S,1,1,Young Adult
+455,0,1,male,13.0,0,0,100.83250000000001,S,1,1,Teen
+456,0,3,male,30.5,0,1,25.98,S,2,0,Young Adult
+457,0,1,male,28.5,0,0,41.8,Q,1,1,Young Adult
+458,1,3,female,26.1,0,1,13.69,C,2,0,Young Adult
+459,0,1,male,27.2,0,0,78.13,S,1,1,Young Adult
+460,1,1,female,2.7,5,2,96.17,S,8,0,Child
+461,1,1,male,21.3,0,0,100.83250000000001,S,1,1,Young Adult
+462,0,3,male,30.3,0,0,68.48,S,1,1,Young Adult
+463,1,3,female,28.7,0,0,10.22,S,1,1,Young Adult
+464,0,3,male,14.6,0,0,10.61,S,1,1,Teen
+465,1,3,female,46.7,1,2,10.28,S,4,0,Adult
+466,0,2,female,16.9,0,1,21.05,S,2,0,Teen
+467,0,2,male,42.6,0,0,21.08,S,1,1,Adult
+468,0,3,male,35.0,0,0,10.41,S,1,1,Young Adult
+469,0,1,male,20.0,0,0,54.74,S,1,1,Young Adult
+470,1,3,female,53.9,0,0,12.39,Q,1,1,Adult
+471,1,1,male,12.3,0,0,58.77,C,1,1,Teen
+472,0,3,male,28.7,1,0,5.53,S,2,0,Young Adult
+473,0,1,male,28.7,2,0,74.87,S,3,0,Young Adult
+474,1,3,female,19.6,0,0,16.42,C,1,1,Young Adult
+475,0,3,male,48.5,2,0,6.9,Q,3,0,Adult
+476,0,3,female,25.5,0,0,6.55,C,1,1,Young Adult
+477,1,1,female,28.7,0,0,100.83250000000001,S,1,1,Young Adult
+478,0,3,male,32.6,0,3,16.63,Q,4,0,Young Adult
+479,0,3,male,28.7,0,0,30.12,S,1,1,Young Adult
+480,0,3,female,40.4,0,0,16.94,C,1,1,Adult
+481,0,3,male,40.1,0,0,20.96,C,1,1,Adult
+482,1,3,female,4.5,0,1,14.49,S,2,0,Child
+483,0,3,male,28.7,0,0,8.65,C,1,1,Young Adult
+484,0,3,male,5.7,0,0,16.88,S,1,1,Child
+485,1,3,female,43.5,1,0,11.67,Q,2,0,Adult
+486,0,3,male,44.8,0,0,14.71,S,1,1,Adult
+487,1,1,male,13.7,0,0,100.83250000000001,Q,1,1,Teen
+488,0,2,male,23.2,0,1,19.99,S,2,0,Young Adult
+489,0,3,male,13.5,0,1,11.47,S,2,0,Teen
+490,0,3,male,26.0,1,0,13.68,S,2,0,Young Adult
+491,1,3,male,24.7,0,0,11.68,S,1,1,Young Adult
+492,1,3,female,39.9,0,2,10.61,S,3,0,Adult
+493,1,2,male,47.3,1,0,19.4,S,2,0,Adult
+494,0,1,female,48.5,0,1,99.77,S,2,0,Adult
+495,0,3,male,28.7,0,0,5.5,S,1,1,Young Adult
+496,1,2,female,28.7,0,2,54.04,S,3,0,Young Adult
+497,1,3,male,5.4,1,0,13.36,Q,2,0,Child
+498,1,1,female,17.7,0,2,69.77,S,3,0,Teen
+499,0,3,male,42.5,0,0,5.13,S,1,1,Adult
+500,1,3,male,51.6,0,0,12.85,S,1,1,Adult
+501,0,3,male,11.7,0,2,11.62,S,3,0,Child
+502,0,3,male,20.7,0,0,9.49,S,1,1,Young Adult
+503,1,2,male,28.6,0,0,17.92,S,1,1,Young Adult
+504,0,3,male,28.7,0,0,100.83250000000001,C,1,1,Young Adult
+505,0,3,female,17.7,2,1,23.16,S,4,0,Teen
+506,1,1,male,28.7,1,2,49.02,S,4,0,Young Adult
+507,0,3,male,28.7,0,0,11.68,S,1,1,Young Adult
+508,0,3,male,28.8,1,1,13.18,S,3,0,Young Adult
+509,1,3,female,36.6,0,0,14.22,S,1,1,Adult
+510,1,3,male,29.1,0,0,10.65,C,1,1,Young Adult
+511,1,3,male,22.9,0,0,13.29,S,1,1,Young Adult
+512,0,2,male,27.5,1,0,25.04,S,2,0,Young Adult
+513,1,3,female,27.8,1,0,12.69,S,2,0,Young Adult
+514,1,3,female,28.7,0,3,15.46,C,4,0,Young Adult
+515,1,1,male,25.4,2,0,100.83250000000001,S,3,0,Young Adult
+516,1,1,female,51.4,0,0,39.41,S,1,1,Adult
+517,0,2,female,36.9,1,3,21.5,S,5,0,Adult
+518,0,3,male,28.7,3,0,6.52,S,4,0,Young Adult
+519,0,3,female,38.8,0,1,13.54,C,2,0,Adult
+520,0,1,male,24.3,1,0,52.41,S,2,0,Young Adult
+521,0,3,male,45.4,0,1,5.01,S,2,0,Adult
+522,1,2,male,34.2,0,0,29.29,Q,1,1,Young Adult
+523,0,3,male,27.5,0,2,7.51,S,3,0,Young Adult
+524,0,3,male,35.3,0,0,17.94,S,1,1,Adult
+525,1,3,female,7.0,2,0,13.32,S,3,0,Child
+526,0,3,male,13.2,0,0,7.88,S,1,1,Teen
+527,0,2,male,12.3,0,0,28.55,S,1,1,Teen
+528,0,2,male,31.0,1,0,32.4,C,2,0,Young Adult
+529,1,1,female,53.3,2,0,100.83250000000001,S,3,0,Adult
+530,0,3,male,60.2,0,0,6.97,S,1,1,Senior
+531,1,3,male,37.9,4,0,21.8,C,5,0,Adult
+532,0,3,male,36.0,0,0,11.7,S,1,1,Adult
+533,1,3,male,3.8,1,0,18.17,S,2,0,Child
+534,1,3,female,21.4,0,0,11.23,S,1,1,Young Adult
+535,1,3,female,18.0,0,0,22.04,C,1,1,Teen
+536,0,3,male,20.3,0,0,6.82,C,1,1,Young Adult
+537,0,3,female,26.6,0,0,10.72,Q,1,1,Young Adult
+538,0,2,male,22.4,0,0,32.1,C,1,1,Young Adult
+539,1,3,female,1.3,0,0,3.68,S,1,1,Child
+540,1,1,male,39.5,0,1,45.48,S,2,0,Adult
+541,0,3,male,14.0,1,0,10.01,C,2,0,Teen
+542,0,3,male,32.3,0,0,17.16,S,1,1,Young Adult
+543,1,1,female,58.0,0,0,100.83250000000001,S,1,1,Adult
+544,1,3,male,28.7,0,0,17.55,S,1,1,Young Adult
+545,0,3,male,0.5,0,0,13.74,S,1,1,Child
+546,0,2,male,25.0,1,0,12.4,C,2,0,Young Adult
+547,1,1,female,44.4,1,0,49.19,S,2,0,Adult
+548,0,3,male,56.4,0,0,13.53,S,1,1,Adult
+549,1,3,female,11.8,0,0,25.28,Q,1,1,Child
+550,1,3,female,28.7,1,0,8.04,S,2,0,Young Adult
+551,0,3,male,22.5,0,0,9.96,S,1,1,Young Adult
+552,1,3,female,27.5,1,0,93.84,S,2,0,Young Adult
+553,1,3,male,66.0,0,3,20.09,C,4,0,Senior
+554,0,3,female,8.0,1,0,13.62,C,2,0,Child
+555,1,3,male,32.6,0,0,19.92,C,1,1,Young Adult
+556,0,2,female,28.7,0,2,27.56,S,3,0,Young Adult
+557,1,1,female,44.2,2,0,100.78,S,3,0,Adult
+558,1,1,female,30.4,0,0,100.83250000000001,C,1,1,Young Adult
+559,1,3,female,28.7,0,1,27.95,C,2,0,Young Adult
+560,0,3,male,23.5,0,1,24.68,S,2,0,Young Adult
+561,0,3,male,32.8,0,0,12.58,S,1,1,Young Adult
+562,1,1,female,24.2,0,0,39.03,Q,1,1,Young Adult
+563,0,1,male,37.7,0,0,100.83250000000001,C,1,1,Adult
+564,0,1,male,28.7,0,2,100.83250000000001,C,3,0,Young Adult
+565,0,2,female,28.7,0,0,13.7,C,1,1,Young Adult
+566,1,3,female,28.6,1,0,5.16,S,2,0,Young Adult
+567,0,2,female,44.8,0,1,12.83,S,2,0,Adult
+568,0,2,male,28.3,0,0,21.32,S,1,1,Young Adult
+569,0,3,female,4.2,0,0,13.43,S,1,1,Child
+570,1,2,male,46.7,0,0,41.42,C,1,1,Adult
+571,0,3,female,16.3,0,0,15.52,S,1,1,Teen
+572,1,3,male,19.8,0,1,10.07,S,2,0,Young Adult
+573,1,2,female,20.7,0,0,17.18,S,1,1,Young Adult
+574,0,3,female,48.2,0,1,14.09,S,2,0,Adult
+575,0,3,male,28.7,0,0,17.63,S,1,1,Young Adult
+576,0,3,female,72.9,0,0,11.94,S,1,1,Senior
+577,0,1,male,43.8,0,3,100.83250000000001,S,4,0,Adult
+578,1,3,female,32.1,0,0,18.4,S,1,1,Young Adult
+579,1,3,female,28.2,0,0,12.7,S,1,1,Young Adult
+580,0,2,male,33.0,0,0,22.1,S,1,1,Young Adult
+581,1,3,female,36.3,1,1,19.3,S,3,0,Adult
+582,0,3,female,28.7,0,0,8.53,S,1,1,Young Adult
+583,0,3,male,28.7,0,0,5.74,S,1,1,Young Adult
+584,0,2,male,30.3,0,0,36.03,S,1,1,Young Adult
+585,1,3,female,28.7,0,0,8.18,C,1,1,Young Adult
+586,1,2,female,26.9,0,1,22.84,C,2,0,Young Adult
+587,0,1,female,26.3,0,0,100.83250000000001,S,1,1,Young Adult
+588,1,1,female,44.9,1,0,100.83250000000001,S,2,0,Adult
+589,1,1,male,37.3,0,0,70.31,Q,1,1,Adult
+590,1,1,female,0.5,2,0,100.83250000000001,C,3,0,Child
+591,1,1,male,38.2,0,2,59.55,S,3,0,Adult
+592,0,3,male,31.7,0,0,11.64,S,1,1,Young Adult
+593,1,1,male,28.7,0,3,16.48,S,4,0,Young Adult
+594,1,2,male,23.6,0,0,40.09,S,1,1,Young Adult
+595,0,3,male,44.7,0,0,14.07,S,1,1,Adult
+596,0,3,male,42.3,0,2,11.04,S,3,0,Adult
+597,1,3,female,18.2,0,0,5.74,S,1,1,Young Adult
+598,0,1,male,28.7,2,0,100.83250000000001,S,3,0,Young Adult
+599,0,1,male,15.4,1,3,23.41,C,5,0,Teen
+600,1,1,male,9.7,0,0,66.26,C,1,1,Child
+601,1,1,male,20.2,0,0,100.83250000000001,S,1,1,Young Adult
+602,0,2,male,41.1,0,0,20.51,C,1,1,Adult
+603,1,1,male,42.3,0,0,100.83250000000001,S,1,1,Adult
+604,1,1,male,28.7,0,0,51.63,C,1,1,Young Adult
+605,0,1,female,39.2,0,0,50.6,S,1,1,Adult
+606,1,3,male,28.7,0,0,13.74,S,1,1,Young Adult
+607,0,1,male,20.0,0,1,100.83250000000001,S,2,0,Young Adult
+608,0,2,male,35.0,4,0,12.48,S,5,0,Young Adult
+609,1,3,female,40.2,1,0,41.96,C,2,0,Adult
+610,0,3,male,39.6,2,0,14.09,S,3,0,Adult
+611,1,1,male,28.7,0,0,73.62,S,1,1,Young Adult
+612,1,3,male,38.9,0,0,7.57,S,1,1,Adult
+613,1,3,male,28.7,0,1,30.14,S,2,0,Young Adult
+614,0,1,male,44.0,0,0,60.26,S,1,1,Adult
+615,1,3,male,28.6,0,1,15.07,S,2,0,Young Adult
+616,1,3,male,16.7,0,2,11.21,C,3,0,Teen
+617,0,1,male,26.7,0,0,21.27,C,1,1,Young Adult
+618,0,2,male,28.7,0,0,19.82,Q,1,1,Young Adult
+619,1,3,female,28.7,0,0,8.07,S,1,1,Young Adult
+620,1,3,female,28.7,0,0,17.54,S,1,1,Young Adult
+621,1,1,female,17.9,0,1,93.05,S,2,0,Teen
+622,1,1,female,24.7,0,2,58.9,S,3,0,Young Adult
+623,1,2,male,2.5,0,0,11.07,S,1,1,Child
+624,1,3,male,32.0,0,0,10.75,Q,1,1,Young Adult
+625,0,3,male,29.0,2,2,10.13,C,5,0,Young Adult
+626,0,2,male,17.6,0,2,15.81,Q,3,0,Teen
+627,0,3,female,38.2,1,0,6.25,C,2,0,Adult
+628,1,3,male,42.1,0,0,5.69,C,1,1,Adult
+629,1,1,female,6.5,0,0,100.83250000000001,C,1,1,Child
+630,0,2,male,28.7,0,2,49.85,S,3,0,Young Adult
+631,1,3,female,18.2,0,0,17.34,S,1,1,Young Adult
+632,1,3,male,15.8,0,0,21.31,S,1,1,Teen
+633,0,3,male,40.6,1,0,22.18,S,2,0,Adult
+634,0,3,male,28.7,0,0,5.42,S,1,1,Young Adult
+635,1,1,male,25.3,0,0,100.83250000000001,S,1,1,Young Adult
+636,0,2,male,0.9,0,4,16.18,S,5,0,Child
+637,0,3,male,28.7,2,0,16.06,Q,3,0,Young Adult
+638,0,2,female,11.7,0,0,26.68,Q,1,1,Child
+639,0,2,male,29.8,0,0,20.92,S,1,1,Young Adult
+640,1,2,male,28.7,0,0,29.8,S,1,1,Young Adult
+641,1,1,male,28.7,1,0,100.83250000000001,S,2,0,Young Adult
+642,1,2,female,10.7,5,0,54.4,S,6,0,Child
+643,1,1,male,0.5,0,0,86.7,C,1,1,Child
+644,0,2,male,31.6,1,0,16.04,S,2,0,Young Adult
+645,1,1,male,54.2,1,0,100.83250000000001,S,2,0,Adult
+646,0,3,male,28.7,0,0,4.32,C,1,1,Young Adult
+647,1,3,female,31.9,0,2,5.05,C,3,0,Young Adult
+648,0,3,male,22.1,0,2,13.87,S,3,0,Young Adult
+649,0,3,male,28.7,3,0,9.56,S,4,0,Young Adult
+650,1,3,female,15.4,0,0,8.94,S,1,1,Teen
+651,1,1,male,35.7,1,2,100.83250000000001,S,4,0,Adult
+652,1,3,male,36.1,0,0,5.98,S,1,1,Adult
+653,0,3,male,28.7,1,1,9.7,S,3,0,Young Adult
+654,1,3,female,67.6,0,2,4.9,S,3,0,Senior
+655,1,2,male,34.5,0,0,23.03,S,1,1,Young Adult
+656,1,1,female,21.9,1,0,100.83250000000001,S,2,0,Young Adult
+657,1,2,male,28.7,1,2,78.0,C,4,0,Young Adult
+658,0,2,male,4.2,1,0,27.42,S,2,0,Child
+659,0,3,male,19.3,0,0,9.95,S,1,1,Young Adult
+660,0,3,female,23.3,1,0,11.16,C,2,0,Young Adult
+661,0,2,male,21.7,0,0,42.22,S,1,1,Young Adult
+662,1,3,female,31.1,0,0,9.65,Q,1,1,Young Adult
+663,1,3,female,17.5,0,0,11.66,S,1,1,Teen
+664,1,1,male,44.7,0,4,100.83250000000001,S,5,0,Adult
+665,1,1,male,29.0,0,0,100.83250000000001,S,1,1,Young Adult
+666,1,1,male,28.9,5,0,53.29,S,6,0,Young Adult
+667,1,2,male,24.4,0,0,21.83,S,1,1,Young Adult
+668,1,1,female,31.2,0,0,54.32,S,1,1,Young Adult
+669,1,1,female,40.6,0,0,97.48,S,1,1,Adult
+670,0,2,male,16.9,0,3,24.54,S,4,0,Teen
+671,0,1,male,28.7,0,1,65.87,S,2,0,Young Adult
+672,1,3,female,24.7,2,0,7.91,S,3,0,Young Adult
+673,1,1,male,10.2,1,0,30.54,S,2,0,Child
+674,1,3,female,17.5,1,0,14.11,S,2,0,Teen
+675,0,2,male,22.3,5,0,14.96,S,6,0,Young Adult
+676,1,3,female,41.2,0,0,9.56,S,1,1,Adult
+677,1,1,male,32.7,0,0,100.83250000000001,C,1,1,Young Adult
+678,0,2,male,31.7,0,4,18.93,S,5,0,Young Adult
+679,0,3,male,40.9,0,0,20.7,C,1,1,Adult
+680,0,3,male,27.1,0,0,5.15,S,1,1,Young Adult
+681,0,3,male,34.5,0,1,18.16,S,2,0,Young Adult
+682,1,2,female,27.6,0,0,25.71,S,1,1,Young Adult
+683,1,1,female,28.7,0,0,27.35,S,1,1,Young Adult
+684,0,3,male,28.7,0,0,10.48,S,1,1,Young Adult
+685,1,3,male,0.5,0,0,6.36,S,1,1,Child
+686,0,3,male,28.7,0,1,6.53,S,2,0,Young Adult
+687,0,3,male,48.9,0,0,18.51,S,1,1,Adult
+688,1,2,male,42.0,0,1,22.49,S,2,0,Adult
+689,1,3,male,42.5,1,0,10.45,S,2,0,Adult
+690,1,1,male,46.3,0,0,98.08,S,1,1,Adult
+691,0,2,male,30.2,0,1,31.22,S,2,0,Young Adult
+692,0,2,male,31.8,1,0,33.72,S,2,0,Young Adult
+693,0,3,male,20.4,0,0,41.7,C,1,1,Young Adult
+694,1,2,female,24.6,0,0,27.95,S,1,1,Young Adult
+695,0,1,male,28.7,1,0,87.12,S,2,0,Young Adult
+696,1,3,female,45.9,0,0,9.42,S,1,1,Adult
+697,1,2,male,28.7,1,0,23.49,C,2,0,Young Adult
+698,0,3,male,22.7,1,0,8.22,S,2,0,Young Adult
+699,1,1,female,29.0,0,0,100.83250000000001,S,1,1,Young Adult
+700,0,3,female,28.7,0,2,28.41,C,3,0,Young Adult
+701,1,3,female,8.8,0,0,12.37,S,1,1,Child
+702,0,1,male,0.5,0,1,100.83250000000001,S,2,0,Child
+703,0,2,male,21.3,0,0,29.41,C,1,1,Young Adult
+704,1,1,female,11.9,0,0,100.83250000000001,S,1,1,Child
+705,0,1,male,21.9,0,1,100.83250000000001,C,2,0,Young Adult
+706,1,3,male,28.7,0,0,19.83,C,1,1,Young Adult
+707,0,2,male,22.7,0,0,25.48,Q,1,1,Young Adult
+708,1,3,male,49.3,0,0,19.58,S,1,1,Adult
+709,1,2,female,33.6,0,0,17.6,S,1,1,Young Adult
+710,0,3,male,28.7,1,0,12.74,S,2,0,Young Adult
+711,0,3,male,37.7,0,0,22.3,S,1,1,Adult
+712,0,3,male,13.1,0,1,17.31,S,2,0,Teen
+713,0,3,male,43.5,2,0,14.52,S,3,0,Adult
+714,1,2,male,28.7,0,2,33.16,S,3,0,Young Adult
+715,0,2,male,38.4,0,2,35.71,S,3,0,Adult
+716,0,3,male,14.0,0,0,8.23,S,1,1,Teen
+717,1,3,female,7.2,0,0,17.38,C,1,1,Child
+718,0,3,male,40.5,0,2,19.99,C,3,0,Adult
+719,1,1,male,34.3,0,2,43.57,C,3,0,Young Adult
+720,0,3,female,16.4,0,0,8.73,S,1,1,Teen
+721,0,3,female,28.7,1,0,26.53,Q,2,0,Young Adult
+722,1,1,male,44.8,0,0,41.85,C,1,1,Adult
+723,0,1,male,12.3,0,0,54.7,S,1,1,Teen
+724,0,3,male,52.0,1,0,8.03,S,2,0,Adult
+725,1,3,female,16.4,0,0,9.23,S,1,1,Teen
+726,0,3,female,28.7,1,0,7.92,S,2,0,Young Adult
+727,1,1,female,24.4,0,0,62.78,S,1,1,Young Adult
+728,1,3,male,37.4,1,0,4.06,S,2,0,Adult
+729,1,1,female,28.7,0,0,60.15,C,1,1,Young Adult
+730,0,1,male,26.7,1,0,100.83250000000001,S,2,0,Young Adult
+731,1,1,male,29.6,2,0,100.83250000000001,S,3,0,Young Adult
+732,0,3,male,28.7,0,0,28.39,S,1,1,Young Adult
+733,0,3,female,39.4,0,0,26.38,S,1,1,Adult
+734,0,3,male,21.8,0,0,5.47,Q,1,1,Young Adult
+735,1,2,female,25.8,0,3,25.92,S,4,0,Young Adult
+736,0,3,male,15.1,0,0,12.34,Q,1,1,Teen
+737,1,2,male,0.5,0,0,33.66,S,1,1,Child
+738,0,3,male,26.3,0,0,6.71,S,1,1,Young Adult
+739,0,2,male,62.8,0,3,35.23,S,4,0,Senior
+740,1,2,female,28.7,0,0,23.25,S,1,1,Young Adult
+741,0,3,male,28.7,0,0,8.01,C,1,1,Young Adult
+742,1,2,female,25.3,0,0,47.64,S,1,1,Young Adult
+743,0,3,female,29.3,0,0,8.32,Q,1,1,Young Adult
+744,0,3,female,36.7,0,0,9.92,S,1,1,Adult
+745,0,1,male,12.5,0,0,28.81,S,1,1,Teen
+746,1,3,male,44.6,0,0,7.11,C,1,1,Adult
+747,0,2,male,39.0,0,0,19.67,S,1,1,Adult
+748,1,3,female,28.7,0,0,9.98,S,1,1,Young Adult
+749,0,3,female,28.7,1,0,12.14,C,2,0,Young Adult
+750,0,3,male,29.3,0,1,13.99,C,2,0,Young Adult
+751,1,1,female,38.4,0,0,51.3,Q,1,1,Adult
+752,0,3,male,37.3,0,1,16.22,C,2,0,Adult
+753,0,3,male,24.0,1,0,16.41,S,2,0,Young Adult
+754,1,2,male,21.0,2,0,19.99,C,3,0,Young Adult
+755,1,1,female,30.4,0,0,54.72,S,1,1,Young Adult
+756,1,3,male,50.7,0,2,9.35,Q,3,0,Adult
+757,1,3,female,28.7,1,0,8.54,S,2,0,Young Adult
+758,1,3,female,28.7,0,0,14.82,S,1,1,Young Adult
+759,0,3,female,31.3,0,0,5.34,S,1,1,Young Adult
+760,0,3,male,29.7,0,0,16.38,S,1,1,Young Adult
+761,0,1,male,31.4,0,0,100.83250000000001,S,1,1,Young Adult
+762,0,2,male,28.7,2,0,32.83,C,3,0,Young Adult
+763,0,2,male,28.7,5,0,34.16,C,6,0,Young Adult
+764,1,3,male,49.9,1,0,7.76,S,2,0,Adult
+765,1,1,female,6.6,0,0,68.69,C,1,1,Child
+766,0,3,male,28.7,1,0,9.82,S,2,0,Young Adult
+767,1,3,male,27.6,0,0,18.23,S,1,1,Young Adult
+768,1,3,male,28.7,0,0,18.15,S,1,1,Young Adult
+769,1,2,male,26.5,1,0,41.2,C,2,0,Young Adult
+770,1,3,male,52.3,0,0,9.51,S,1,1,Adult
+771,1,1,male,28.7,0,3,100.83250000000001,S,4,0,Young Adult
+772,1,3,female,32.2,0,2,79.44,S,3,0,Young Adult
+773,0,1,male,11.4,1,1,100.83250000000001,S,3,0,Child
+774,1,2,female,20.4,0,0,14.33,S,1,1,Young Adult
+775,1,3,female,23.7,0,0,14.18,S,1,1,Young Adult
+776,0,1,male,28.7,0,0,84.67,S,1,1,Young Adult
+777,1,1,female,46.9,1,0,100.83250000000001,S,2,0,Adult
+778,0,3,male,36.8,1,0,7.27,Q,2,0,Adult
+779,0,3,female,13.4,0,1,10.62,S,2,0,Teen
+780,1,3,male,32.5,0,1,7.1,S,2,0,Young Adult
+781,1,3,female,36.0,0,1,12.3,S,2,0,Adult
+782,1,3,female,45.0,3,0,26.96,C,4,0,Adult
+783,0,2,female,28.7,0,0,45.39,C,1,1,Young Adult
+784,1,2,female,28.7,2,0,29.73,C,3,0,Young Adult
+785,0,1,male,17.6,0,0,90.51,S,1,1,Teen
+786,0,3,male,11.4,1,0,10.55,C,2,0,Child
+787,0,3,male,25.7,1,0,21.66,S,2,0,Young Adult
+788,0,2,male,35.5,1,0,24.15,S,2,0,Adult
+789,0,3,female,42.8,3,0,10.39,S,4,0,Adult
+790,0,3,male,28.7,0,0,21.18,S,1,1,Young Adult
+791,1,1,female,24.5,0,1,100.83250000000001,Q,2,0,Young Adult
+792,0,3,male,31.1,0,0,23.24,C,1,1,Young Adult
+793,1,3,female,17.3,1,1,6.41,S,3,0,Teen
+794,0,3,male,58.3,0,0,17.1,S,1,1,Adult
+795,1,1,female,6.5,0,0,100.83250000000001,S,1,1,Child
+796,0,3,female,31.6,0,0,20.16,S,1,1,Young Adult
+797,0,3,male,57.3,0,0,4.79,S,1,1,Adult
+798,1,3,male,29.1,0,3,8.85,C,4,0,Young Adult
+799,0,3,female,26.3,0,0,10.79,Q,1,1,Young Adult
+800,0,3,male,24.0,1,0,20.19,S,2,0,Young Adult
+801,0,3,male,26.5,0,0,6.26,C,1,1,Young Adult
+802,1,1,male,48.2,0,2,100.83250000000001,S,3,0,Adult
+803,1,3,male,0.5,0,0,5.46,S,1,1,Child
+804,0,3,male,50.5,0,0,8.06,S,1,1,Adult
+805,0,2,male,28.7,1,0,25.08,S,2,0,Young Adult
+806,0,3,male,25.3,1,0,100.83250000000001,C,2,0,Young Adult
+807,0,3,male,23.0,0,0,8.81,S,1,1,Young Adult
+808,1,3,female,37.2,1,0,17.21,S,2,0,Adult
+809,1,3,male,6.6,1,0,12.29,S,2,0,Child
+810,1,1,female,35.5,1,1,55.64,Q,3,0,Adult
+811,0,3,male,57.3,0,0,9.06,S,1,1,Adult
+812,0,3,male,28.7,2,0,17.9,C,3,0,Young Adult
+813,0,1,male,31.7,0,0,100.83250000000001,C,1,1,Young Adult
+814,1,3,male,19.7,0,0,12.79,S,1,1,Young Adult
+815,1,3,male,35.0,0,0,9.05,S,1,1,Young Adult
+816,0,3,male,29.3,0,0,9.83,C,1,1,Young Adult
+817,0,3,male,20.0,0,0,16.35,S,1,1,Young Adult
+818,0,2,male,28.7,0,0,27.06,Q,1,1,Young Adult
+819,1,1,female,54.3,0,0,73.02,S,1,1,Adult
+820,0,2,male,26.3,1,0,23.36,S,2,0,Young Adult
+821,1,3,male,28.7,1,0,32.2,C,2,0,Young Adult
+822,0,1,female,28.7,0,0,100.83250000000001,C,1,1,Young Adult
+823,1,2,male,28.7,1,0,32.54,Q,2,0,Young Adult
+824,0,2,male,35.6,1,2,26.87,S,4,0,Adult
+825,0,3,female,28.7,1,1,32.37,Q,3,0,Young Adult
+826,0,3,male,34.0,0,0,10.53,C,1,1,Young Adult
+827,1,2,female,24.6,1,0,26.37,C,2,0,Young Adult
+828,1,2,female,29.0,2,1,18.31,S,4,0,Young Adult
+829,0,3,male,11.5,1,1,8.61,S,3,0,Child
+830,1,3,male,37.5,0,1,12.88,Q,2,0,Adult
+831,1,1,male,41.4,0,0,71.06,S,1,1,Adult
+832,0,3,male,22.7,0,0,14.15,S,1,1,Young Adult
+833,1,1,male,22.4,0,1,100.83250000000001,S,2,0,Young Adult
+834,1,1,female,32.7,0,0,54.24,S,1,1,Young Adult
+835,1,3,male,22.9,0,0,28.63,S,1,1,Young Adult
+836,0,2,male,28.1,1,0,37.54,S,2,0,Young Adult
+837,1,3,female,58.4,1,0,18.66,C,2,0,Adult
+838,0,2,female,28.7,0,0,29.41,S,1,1,Young Adult
+839,0,3,male,28.7,2,0,10.83,S,3,0,Young Adult
+840,0,3,male,19.9,0,0,14.82,S,1,1,Young Adult
+841,0,1,male,39.4,0,0,19.53,S,1,1,Adult
+842,0,3,male,26.5,1,0,6.94,S,2,0,Young Adult
+843,1,1,male,19.9,1,0,99.65,S,2,0,Young Adult
+844,0,3,male,47.5,2,0,14.96,S,3,0,Adult
+845,1,1,female,48.9,0,0,67.76,C,1,1,Adult
+846,0,2,male,20.6,1,1,14.98,S,3,0,Young Adult
+847,1,1,male,2.9,0,0,100.83250000000001,S,1,1,Child
+848,0,3,male,43.1,1,0,20.04,S,2,0,Adult
+849,0,3,male,19.4,1,0,9.12,S,2,0,Young Adult
+850,1,3,female,28.7,0,1,21.26,S,2,0,Young Adult
+851,1,1,female,28.7,0,0,53.43,C,1,1,Young Adult
+852,1,3,female,41.5,1,0,7.13,S,2,0,Adult
+853,1,1,male,12.0,0,0,100.83250000000001,S,1,1,Child
+854,0,3,male,39.2,0,0,10.57,S,1,1,Adult
+855,0,1,male,28.7,1,1,76.58,S,3,0,Young Adult
+856,1,1,male,15.6,0,1,55.82,Q,2,0,Teen
+857,0,1,male,23.3,1,0,99.55,S,2,0,Young Adult
+858,1,3,female,38.6,0,0,9.9,C,1,1,Adult
+859,0,3,male,30.5,0,0,8.01,S,1,1,Young Adult
+860,0,1,male,37.2,1,0,88.58,S,2,0,Adult
+861,0,3,male,56.7,0,0,13.06,S,1,1,Adult
+862,0,3,male,7.1,0,0,11.24,S,1,1,Child
+863,0,3,male,28.7,1,0,15.86,C,2,0,Young Adult
+864,1,2,female,28.7,0,0,39.01,S,1,1,Young Adult
+865,1,2,female,16.4,0,2,10.43,C,3,0,Teen
+866,1,3,female,10.4,0,0,16.39,S,1,1,Child
+867,0,1,male,26.4,1,1,100.83250000000001,Q,3,0,Young Adult
+868,0,1,male,41.9,1,0,70.77,S,2,0,Adult
+869,0,3,male,27.2,1,0,23.81,C,2,0,Young Adult
+870,1,3,male,50.2,0,0,18.83,C,1,1,Adult
+871,1,2,female,8.7,1,0,41.11,Q,2,0,Child
+872,0,2,male,28.8,0,0,34.68,S,1,1,Young Adult
+873,0,3,male,11.5,1,0,14.34,C,2,0,Child
+874,0,2,male,34.1,0,4,19.18,S,5,0,Young Adult
+875,1,1,male,41.4,1,0,70.77,S,2,0,Adult
+876,1,1,female,23.1,1,0,100.83250000000001,S,2,0,Young Adult
+877,0,3,male,28.7,0,2,22.79,S,3,0,Young Adult
+878,0,3,male,31.8,0,0,19.89,Q,1,1,Young Adult
+879,1,1,male,35.1,1,0,57.43,S,2,0,Adult
+880,1,1,male,28.7,0,0,100.83250000000001,S,1,1,Young Adult
+881,1,1,female,46.3,3,1,100.83250000000001,S,5,0,Adult
+882,1,3,female,14.0,0,3,10.32,S,4,0,Teen
+883,1,1,female,28.7,0,3,100.83250000000001,S,4,0,Young Adult
+884,1,1,female,45.7,0,0,60.64,S,1,1,Adult
+885,1,3,male,4.1,0,1,27.58,S,2,0,Child
+886,1,1,female,28.7,2,0,72.41,S,3,0,Young Adult
+887,0,3,male,21.9,0,0,13.83,Q,1,1,Young Adult
+888,1,1,male,27.9,1,0,62.61,C,2,0,Young Adult
+889,1,1,female,28.7,0,0,100.83250000000001,Q,1,1,Young Adult
+890,0,2,male,22.2,0,3,48.64,S,4,0,Young Adult
+891,1,3,female,19.5,0,2,27.14,S,3,0,Young Adult
